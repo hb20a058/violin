@@ -3,3 +3,8 @@
 - SSSS.GRIDMAN
 - SSSS.DYNAZENON
 - takt op.Destiny
+
+## 好きな食べ物
+- 寿司
+- 焼肉
+- ラーメン
